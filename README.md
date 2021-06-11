@@ -1,6 +1,6 @@
 bypass driver by blacklist to fix minikatz
 
-replace with that file....
+replace "C:\Windows\apppatch\drvmain.sdb" with that file....
 
 
 
